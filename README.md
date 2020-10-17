@@ -10,5 +10,6 @@ El objetivo del taller 2 era tomar la base de datos del “Censo de 1994” y re
 ## El taller 3
 Haciendo uso de la misma base de datos del “Censo de 1994” y realizar una predicción mediante Técnica de aprendizaje profundo en donde se usaron:
  - Redes Neuronales 
+# Ensayos
 Los ensayos demuestran la capacidad de analizar y argumentar en diferentes campos.
 *Los talleres tienen comentarios de la profesora como corrección
